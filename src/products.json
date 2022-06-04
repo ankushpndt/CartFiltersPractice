@@ -1,0 +1,52 @@
+{
+  "listOfProducts": [
+    {
+      "id": 1,
+      "name": "shirt",
+      "price": "2000",
+      "size": "L",
+      "brand": "adidas",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "tshirt",
+      "price": "4000",
+      "size": "M",
+      "brand": "adidas",
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "name": "shorts",
+      "price": "1000",
+      "size": "S",
+      "brand": "adidas",
+      "gender": "male"
+    },
+    {
+      "id": 4,
+      "name": "shirt",
+      "price": "3000",
+      "size": "S",
+      "brand": "polo",
+      "gender": "female"
+    },
+    {
+      "id": 5,
+      "name": "trousers",
+      "price": "2500",
+      "size": "S",
+      "brand": "nike",
+      "gender": "female"
+    },
+    {
+      "id": 6,
+      "name": "tshirt",
+      "price": "5000",
+      "size": "XL",
+      "brand": "comicsense",
+      "gender": "female"
+    }
+  ]
+}
